@@ -5,7 +5,7 @@ draft = false
 tags = ["Tech"]
 +++
 
-During this time when we are all isolated in our homes because of COVID-19, I have tried to make the most of it and learn some new skills. Something I've wanted to get better at is Linux. I learn best by diving into the deep end of the pool, so I decided to install [Arch Linux](https://www.archlinux.org/) in [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html) as a learning experience. This blog post is to document the process for future reference. The [installion guide](https://wiki.archlinux.org/index.php/Installation_guide) on the [Arch Wiki](https://wiki.archlinux.org/) was very helpful as well, so I'd be remiss if I didn't include a link. Here goes nothing... 
+During this time when we are all isolated in our homes because of COVID-19, I have tried to make the most of it and learn some new skills. Something I've wanted to get better at is Linux. I learn best by diving into the deep end of the pool, so I decided to install [Arch Linux](https://www.archlinux.org/) in [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html) as a learning experience. This blog post is to document the process for future reference. The [installation guide](https://wiki.archlinux.org/index.php/Installation_guide) on the [Arch Wiki](https://wiki.archlinux.org/) was very helpful as well, so I'd be remiss if I didn't include a link. Here goes nothing... 
 
 First thing is to create the virtual machine in VMware. I created a 50 GB virtual hard drive, and added this next to the bottom of the *.vmx file so the machine would boot with EFI.
 
@@ -15,9 +15,7 @@ firmware = "efi"
 
 Next [download](https://www.archlinux.org/download/) the latest version of Arch and boot from the ISO. You should end up at a command line. 
 
-Verify there are results when the commands below are run. I did my install over a wired connection. If you are doing this on a bare metal laptop with wifi only, additional steps are required first.
-
-This ensures you have a network connection and EFI is ready to go.
+Verify there are results when you run the commands below. I did my install over a wired connection. If you are doing this with wifi only, additional steps are required. Refer to the Arch install guide.
 
 ```
 # ls /sys/firmware/efi/efivars
@@ -107,7 +105,6 @@ Next is setting up the hosts file.
 Add the following text and save. 
 
 ```
-# Add this to the hosts file
 127.0.0.1	localhost
 ::1		localhost
 127.0.1.1	archVM.localdomain	archVM
