@@ -15,7 +15,7 @@ firmware = "efi"
 
 Next [download](https://www.archlinux.org/download/) the latest version of Arch and boot from the ISO. You should end up at a command line. 
 
-Verify there are results when you run the commands below. I did my install over a wired connection. If you are doing this with wifi only, additional steps are required. Refer to the Arch install guide.
+Verify there are results when you run the commands below. I did my install on a host machine with a wired connection. If you are performing a bare metal install on a laptop with Wi-Fi only, additional steps are required. Refer to the Arch install guide.
 
 ```
 # ls /sys/firmware/efi/efivars
