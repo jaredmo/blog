@@ -28,13 +28,13 @@ If EFI is working and you have a network connection, let's move forward. Next we
 # timedatectl set-ntp true
 ```
 
-Now we'll partion the disk with *cfdisk*. Run *lsblk* to determine your particular drive path first. Mine happened to be */dev/sda*. 
+Now we'll partition the disk with *cfdisk*. Run *lsblk* to determine your particular drive path first. Mine happened to be */dev/sda*. 
 
 ```
 # cfdisk /dev/sda
 ```
 
-I allocated 512M to /mnt/boot, 8GB to the swap, everything else to root. Next we'll format the drive.
+I allocated 512MB to /mnt/boot, 8GB to the swap, everything else to root. Next we'll format the drive.
 
 ```
 # mkfs.vfat -F32 /dev/sda1
@@ -73,11 +73,11 @@ Next we'll generate and examine the file system.
 # nano /mnt/etc/fstab
 ```
 
-Arch is now installed on the hard drive. Let's login to the new system, and install some packages. I've included a couple text editors, networking, sudo, boot loader, and the linux-lts kernel. Using this kernel will (hopefully) increase system stability done the road.
+Arch is now installed on the hard drive. Let's login to the new system, and install some packages. I've included a couple text editors, networking, sudo, git, grub bootloader, and the linux-lts kernel. Using this kernel will (hopefully) increase system stability down the road.
 
 ```
 # arch-chroot /mnt
-# pacman -S dhcpcd efibootmgr grub linux-lts nano sudo vi
+# pacman -S dhcpcd efibootmgr git grub linux-lts nano sudo vi
 ```
 
 Set the time zone. I happen to be on US Central time.
@@ -119,7 +119,6 @@ Now we'll set the root account password.
 Install the grub bootloader.
 
 ```
-# pacman -S grub efibootmgr
 # grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB
 # grub-mkconfig -o /boot/grub/grub.cfg
 ```
@@ -164,7 +163,7 @@ Now let's install VMware guest tools as well as some drivers that will help us o
 
 ```
 # pacman -S open-vm-tools
-# pacman -Su xf86-input-vmmouse xf86-video-vmware mesa gtk2 gtkmm
+# pacman -S xf86-input-vmmouse xf86-video-vmware mesa gtk2 gtkmm
 # systemctl enable vmtoolsd.service
 # systemctl enable vmware-vmblock-fuse.service
 # reboot
@@ -185,16 +184,3 @@ $ makepkg -si
 Now you can update your entire system just by opening a terminal and issuing the *yay* command. That feels pretty good! 
 
 I hope this little guide was helpful. I certainly learned a lot in the process, and am glad to have completed the exercise.
-
-
-
-
-
-
-
-
-
-
-
-
-
