@@ -54,7 +54,7 @@ Now we'll create the boot and home directories, as well as mount the partitions.
 
 Before going forward let's check our work by running *lsblk*. Once you are happy with the drive move forward.
 
-Now we'll recreate the *mirrorlist* file based on download speed. This will rate and sort the 10 most recently syncronized mirrors by download speed, then overwrite */etc/pacman.d/mirrorlist*.
+Now we'll recreate the *mirrorlist* file based on download speed. This will rate and sort the 10 most recently synchronized mirrors by download speed, then overwrite */etc/pacman.d/mirrorlist*.
 
 ```
 # reflector --verbose --latest 10 --sort rate --save /etc/pacman.d/mirrorlist
