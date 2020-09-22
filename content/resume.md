@@ -7,42 +7,42 @@ Experience
 ----------
 **AmSurg Corp**  
 *Senior Director of Financial Services*, 4/18 – present
-- Integrated company's first ophthalmology practice and optical store acquisitions.
-- Authored components of web application that processes $1 billion in annual revenue and interentity fees. Consumes disparate medical billing system inputs; outputs to SmartStream GL and IBM Cognos.
+- Create monthly and ad-hoc financial reports for upper management and key decision makers.
+- Provide financial analysis and guidance to internal and external stakeholders.
+- Mentor and coach staff, seniors, and managers in financial analysis and reporting skills.
+- Create reporting for annual budget process of 300+ surgery centers, including detailed variance analysis.
+- Financially integrated company’s first multi-location ophthalmology practice/optical store acquisition. Created the budgets, chart of accounts structure, and executive reporting packages.
+- Authored SQL components of web application that processes $1 billion in annual revenue and fees.
+- Worked with IT to create Azure/Tableau-based data warehouse for medical billing data. Provides a single source of truth for billing, accounting, and operations to access common performance metrics.
+- Retained responsibilities from previous role.
 
 *Director of Financial Services, IT Specialist*, 7/16 – 4/18
 - Account for surgery center acquisitions including opening balance sheet, budget, and systems integration.
-- Provide analytical support and accounting direction to Operations, surgery centers and other departments.
 - Review surgery center income statements monthly and provide feedback to staff.
-- Assist with consolidation of 300+ accounting entities with variable ownership. 
-- Develop SQL Server Reporting Services reports.
-- Develop Finance SharePoint sites, lists and Nintex workflows.
-- Coordinate development, testing and deployment of internal .NET finance applications.
-- Design, implement and monitor process improvement projects using Lean/Kaizen methodology.
-- Create documentation and materials for cross functional finance projects. 
-- Significantly reduced manual report execution with SSRS data driven subscriptions (75K annually).
-- Designed and implemented KnowledgeLake paperless workflow for monthly account reconciliations (24K annually). 
-- Developed Git version control workflow for critical applications and reports.
+- Assist with consolidation of 300+ accounting entities with variable ownership.
+- Developed SQL Server Reporting Services and IBM Cognos reports for upper management.
+- Improved month end close efficiency through development of SharePoint sites, lists, and Nintex workflows.
+- Coordinate development, testing, and deployment of finance web applications.
+- Design, implement, and monitor process improvement projects using Agile techniques.
+- Create documentation and materials for cross functional finance projects.
 
 *Manager of Financial Services II*, 6/11 - 7/16
-- Supervise team of accountants, senior accountants, and accounts payable personnel. 
-- Manage operating/capital budgets and monthly accounting processes for 30+ ambulatory surgery centers.
-- Assist physician partners and operations colleagues with financial issues and questions.
-- Account for surgery center acquisitions including opening balance sheet, budget, and systems integration.
+- Supervised team of staff accountants, senior accountants, and accounts payable personnel.
+- Managed operating/capital budgets and monthly accounting processes for 30+ ambulatory surgery centers.
+- Assisted physician partners and operations colleagues with financial issues and questions.
 - Responsible for successful wind-down of entities placed in discontinued operations.
-- Approve and release ACH transfers including partnership distributions.
-- Created SharePoint workflows to replace existing paper-based report processes (150K+ sheets of paper annually).
-- Designed and implemented KnowledgeLake/SmartStream paperless workflow for journal entry backup (950K+ sheets of paper annually).
-- Created dashboards and reports for department leadership. 
+- Approved and released ACH transfers including partnership distributions.
+- Created workflows to replace existing paper-based report processes (1M+ sheets of paper annually).
+- Created dashboards and reports for department leadership.
 
 **LifeWay Christian Resources**  
 *Financial Analyst*, 1/09 - 6/11
-- Data analysis, budgeting, forecasting and reporting for LifeWay’s Church Resources Division. 
+- Data analysis, budgeting, forecasting, and reporting for LifeWay’s Church Resources Division. 
 - Developed annual operating, working capital and fixed asset budgets for three departments. 
 - Performed quarterly projections of revenues and expenses. 
 - Created pro formas and recommendations on new initiatives. 
 - Compiled quarterly divisional reporting package for executive leadership.
-- Developed reports to gain insight on customer retention, revenue trends and fully-loaded product cost.
+- Developed reports to gain insight on customer retention, revenue trends, and fully-loaded product cost.
 - Served as technical consultant on design of a data warehouse for key financial and customer data.
 - Annually trained and managed 20+ temp financial personnel across the United States. 
 - Performed M&A due diligence on acquisition that increased a department’s revenue by 30%.
@@ -64,7 +64,7 @@ Additional Experience
 **Belmont University**  
 *Adjunct Professor of Accounting, College of Business Administration*, 8/09 - 12/09
 - Taught Accounting Principles II to 30 students at night during the fall 2009 semester. 
-- Created presentations, tests, assignments and games to facilitate classroom learning.
+- Created presentations, tests, assignments, and games to facilitate classroom learning.
 
 Education
 ---------
