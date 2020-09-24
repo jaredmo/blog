@@ -3,6 +3,12 @@ title = "Resume"
 slug = "resume"
 +++
 
+Specialties
+-----------
+Preparation of financial statements and executive reporting packages • Leading and coaching high performing teams •
+Budgeting and forecasting • Business combination accounting • Healthcare accounting • Data analysis and report creation •
+Building predictive analytical models • Leveraging technological infrastructure to drive efficiencies and profitability
+
 Experience
 ----------
 **AmSurg Corp**  
