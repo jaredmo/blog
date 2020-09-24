@@ -3,6 +3,6 @@ title = "About"
 slug = "about"
 +++
 
-Certified Public Accountant and SQL/SAS developer from Nashville, TN. I specialize in leveraging technological infrastructure to drive efficiencies and profitability. Areas of expertise include healthcare data analytics, acquisition integration, report writing, and building internal accounting applications. 
+I am a Certified Public Accountant and SQL developer from Nashville, TN. My current role is Senior Director of Financial Services at [AMSURG](https://www.amsurg.com/) where I work on healthcare revenue recognition, acquisition integration, budgeting, and building internal web applications. I am an experienced people manager and enjoy training on the intersection of accounting, finance, and technology. 
 
-13+ years of experience writing reports and application back ends in SQL and SAS.
+I have deep experience with a variety of database and reporting platforms including Microsoft SQL Server, Azure SQL, SQL Server Reporting Services, IBM Cognos TM1, Tableau, Base SAS, and Business Objects.
