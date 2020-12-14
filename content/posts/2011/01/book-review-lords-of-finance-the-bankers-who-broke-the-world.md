@@ -1,7 +1,7 @@
 +++
 date = "2011-01-19T18:23:05+00:00"
 title = "Book Review: Lords of Finance, The Bankers Who Broke the World"
-draft = false
+draft = true
 tags = ["Fun"]
 +++
 

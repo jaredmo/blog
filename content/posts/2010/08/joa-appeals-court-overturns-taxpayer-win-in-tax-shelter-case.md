@@ -1,7 +1,7 @@
 +++
 date = "2010-08-05T15:11:44+00:00"
 title = "JoA: Appeals Court Overturns Taxpayer Win in Tax Shelter Case"
-draft = false
+draft = true
 tags = ["News", "Tax"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 date = "2010-06-29T17:29:47+00:00"
 title = "The Art of Managing Well"
-draft = false
+draft = true
 tags = ["Profession", "Featured"]
 +++
 

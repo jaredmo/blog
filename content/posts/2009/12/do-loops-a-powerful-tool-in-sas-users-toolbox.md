@@ -1,7 +1,7 @@
 +++
 date = "2009-12-09T15:21:29+00:00"
 title = "DO Loops: Useful Tool in SAS User's Toolbox"
-draft = false
+draft = true
 tags = ["SAS", "Tech", "Featured"]
 +++
 
@@ -19,10 +19,10 @@ The condition is evaluated at the bottom of the loop after the statements in the
 
 ```
 DATA TEST_2;
-   SET TEST_1;
- _DO WHILE (LENGTH(COMPRESS(OrderNumber)) LT 7);
-         OrderNumber="0"||OrderNumber;
-      END;_
+SET TEST_1;
+	DO WHILE (LENGTH(COMPRESS(OrderNumber)) LT 7);
+    	OrderNumber="0"||OrderNumber;
+	END;
 RUN;
 ```
 

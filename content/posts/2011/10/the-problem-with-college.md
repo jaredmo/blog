@@ -1,7 +1,7 @@
 +++
 date = "2011-10-30T19:51:37+00:00"
 title = "The Problem With College"
-draft = false
+draft = true
 tags = ["Standard", "Profession"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 date = "2009-12-11T18:34:04+00:00"
 title = "DO Loops: Part Deux (It's a pun. Get it?)"
-draft = false
+draft = true
 tags = ["SAS", "Tech", "Featured"]
 +++
 
@@ -55,11 +55,10 @@ This will create a table that contains an individual record for every order on e
 After that we can use a simple PROC SUMMARY to summarize the data and we have successfully moved from Point A to Point B.
 ```
 PROC SUMMARY DATA=TEST_2 NWAY MISSING;
-        CLASS RUNDATE PRODUCT;
+    CLASS RUNDATE PRODUCT;
 	VAR QUANTITY;
-        OUTPUT OUT=TEST_3 (DROP=_TYPE_ _FREQ_) SUM=;
+    OUTPUT OUT=TEST_3 (DROP=_TYPE_ _FREQ_) SUM=;
 RUN;
-
 ```
 
 We can now generate the requested trend report and the client is happy. What more could you ask.

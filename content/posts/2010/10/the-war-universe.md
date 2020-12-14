@@ -1,7 +1,7 @@
 +++
 date = "2010-10-17T21:16:08+00:00"
 title = "The War Universe"
-draft = false
+draft = true
 tags = ["Quotes"]
 +++
 

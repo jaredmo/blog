@@ -1,7 +1,7 @@
 +++
 date = "2011-09-18T18:19:52+00:00"
 title = "The Tulip Bubble of 1636"
-draft = false
+draft = true
 tags = ["Economics"]
 +++
 
