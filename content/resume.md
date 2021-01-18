@@ -13,13 +13,13 @@ Experience
 ----------
 **AmSurg Corp**  
 *Senior Director of Financial Services*, 4/18 – present
-- Create monthly and ad-hoc financial reports for upper management and key decision makers.
+- Create scheduled and ad-hoc reports for upper management and key decision makers.
 - Provide financial analysis and guidance to internal and external stakeholders.
 - Mentor and coach staff, seniors, and managers in financial analysis and reporting skills.
 - Create reporting for annual budget process of 300+ surgery centers, including detailed variance analysis.
-- Financially integrated company’s first multi-location ophthalmology practice/optical store acquisition. Created the budgets, chart of accounts structure, and executive reporting packages.
+- Department project lead for Azure/Tableau-based revenue cycle data warehouse. Provides a single source of truth for billing, accounting, and operations to access common performance metrics.
+- Financially integrated company’s first multi-location ophthalmology practice acquisition. Created the budgets, chart of accounts structure, and executive reporting packages.
 - Authored SQL components of web application that processes $1 billion in annual revenue and fees.
-- Worked with IT to create Azure/Tableau-based data warehouse for medical billing data. Provides a single source of truth for billing, accounting, and operations to access common performance metrics.
 - Retained responsibilities from previous role.
 
 *Director of Financial Services, IT Specialist*, 7/16 – 4/18
