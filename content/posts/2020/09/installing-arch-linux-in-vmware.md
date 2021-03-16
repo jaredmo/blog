@@ -1,7 +1,7 @@
 +++
 date = "2020-09-03T09:05:00-06:00"
 title = "Installing Arch Linux in VMware Workstation Player"
-draft = false
+draft = true
 tags = ["Tech"]
 +++
 

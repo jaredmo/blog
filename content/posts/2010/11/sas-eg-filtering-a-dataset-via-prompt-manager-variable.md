@@ -1,7 +1,7 @@
 +++
 date = "2010-11-04T15:55:36+00:00"
 title = "SAS EG: Filtering a Dataset via Prompt Manager Variable"
-draft = false
+draft = true
 tags = ["SAS", "Tech"]
 +++
 
