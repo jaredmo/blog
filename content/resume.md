@@ -11,8 +11,11 @@ Building predictive analytical models • Leveraging technological infrastructur
 
 Experience
 ----------
+**Lyra Health**  
+*Head of Financial Business Systems*, 5/21 - present
+
 **AmSurg Corp**  
-*Senior Director of Financial Services*, 4/18 – present
+*Senior Director of Financial Services*, 4/18 – 5/21
 - Create scheduled and ad-hoc reports for upper management and key decision makers.
 - Provide financial analysis and guidance to internal and external stakeholders.
 - Mentor and coach staff, seniors, and managers in financial analysis and reporting skills.
