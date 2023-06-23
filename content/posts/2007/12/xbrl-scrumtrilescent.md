@@ -1,7 +1,7 @@
 +++
 date = "2007-12-19T16:52:47+00:00"
 title = "XBRL = Scrumtrilescent"
-draft = false
+draft = true 
 tags = ["Financial Reporting", "XBRL"]
 +++
 
