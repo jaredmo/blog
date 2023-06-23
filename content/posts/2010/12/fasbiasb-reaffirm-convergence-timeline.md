@@ -1,7 +1,7 @@
 +++
 date = "2010-12-03T16:48:50+00:00"
 title = "FASB/IASB Reaffirm Convergence Timeline"
-draft = true
+draft = false
 tags = ["Financial Reporting"]
 +++
 

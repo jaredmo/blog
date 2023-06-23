@@ -1,7 +1,7 @@
 +++
 date = "2010-10-27T14:12:59+00:00"
 title = "JoA: Whose Goodwill Is It?"
-draft = true
+draft = false
 tags = ["News", "Tax"]
 +++
 

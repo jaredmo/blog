@@ -1,7 +1,7 @@
 +++
 date = "2010-10-20T14:48:18+00:00"
 title = "JoA: Futurist Speaks to CPAs"
-draft = true
+draft = false
 tags = ["News"]
 +++
 

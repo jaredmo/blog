@@ -1,7 +1,7 @@
 +++
 date = "2010-09-27T18:52:43+00:00"
 title = "The Economist: Someone Will Pay"
-draft = true
+draft = false
 tags = ["News", "Tax"]
 +++
 

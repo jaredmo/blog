@@ -1,7 +1,7 @@
 +++
 date = "2011-03-25T14:59:20+00:00"
 title = "JoA: Dashboard Your Scorecard"
-draft = true
+draft = false
 tags = ["Dashboard", "Excel", "SAS", "Tech"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 date = "2010-12-07T17:29:11+00:00"
 title = "Should Accountants Be Required to Code"
-draft = true
+draft = false
 tags = ["Profession", "SAS", "Featured"]
 +++
 

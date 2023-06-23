@@ -1,7 +1,7 @@
 +++
 date = "2010-08-23T14:51:07+00:00"
 title = "How Google Fusion Tables Helped Me Look Awesome"
-draft = true
+draft = false
 tags = ["Tech"]
 +++
 

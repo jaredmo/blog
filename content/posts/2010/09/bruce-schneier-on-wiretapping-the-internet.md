@@ -1,7 +1,7 @@
 +++
 date = "2010-09-30T14:21:10+00:00"
 title = "Bruce Schneier on Wiretapping the Internet"
-draft = true
+draft = false
 tags = ["Tech"]
 +++
 

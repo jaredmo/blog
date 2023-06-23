@@ -1,7 +1,7 @@
 +++
 date = "2011-03-10T16:45:57+00:00"
 title = "The Anatomy of an Email Storm"
-draft = true
+draft = false
 tags = ["Email", "Fun"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 date = "2010-12-08T17:26:43+00:00"
 title = "NYT: Still Digging"
-draft = true
+draft = false
 tags = ["News"]
 +++
 

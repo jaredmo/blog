@@ -1,7 +1,7 @@
 +++
 date = "2012-11-18T20:37:32+00:00"
 title = "Can You Teach Ethics?"
-draft = true
+draft = false
 tags = ["Profession"]
 +++
 

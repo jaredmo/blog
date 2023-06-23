@@ -1,7 +1,7 @@
 +++
 date = "2010-10-10T23:15:44+00:00"
 title = "Darth JEDAR"
-draft = true
+draft = false
 tags = ["Fun"]
 +++
 

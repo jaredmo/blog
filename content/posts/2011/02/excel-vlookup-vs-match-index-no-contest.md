@@ -1,7 +1,7 @@
 +++
 date = "2011-02-11T17:12:37+00:00"
 title = "Excel: VLOOKUP vs. MATCH / INDEX. No Contest."
-draft = true
+draft = false
 tags = ["Excel", "Tech"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 date = "2012-02-11T21:37:31+00:00"
 title = "Excel Pull Function"
-draft = true
+draft = false
 tags = ["Excel", "Tech"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 date = "2008-02-03T21:05:58+00:00"
 title = "Simple Standards Sound Solid"
-draft = true
+draft = false
 tags = ["Financial Reporting"]
 +++
 

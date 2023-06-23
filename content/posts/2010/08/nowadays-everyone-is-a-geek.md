@@ -1,7 +1,7 @@
 +++
 date = "2010-08-12T16:15:18+00:00"
 title = "Nowadays, Everyone Is a Geek"
-draft = true
+draft = false
 tags = ["Fun", "Tech"]
 +++
 

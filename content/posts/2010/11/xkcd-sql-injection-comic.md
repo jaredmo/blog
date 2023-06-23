@@ -1,7 +1,7 @@
 +++
 date = "2010-11-05T13:54:02+00:00"
 title = "xkcd: SQL Injection Comic"
-draft = true
+draft = false
 tags = ["Fun", "Tech"]
 +++
 

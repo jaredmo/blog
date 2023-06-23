@@ -1,7 +1,7 @@
 +++
 date = "2010-12-15T21:07:37+00:00"
 title = "JoA: Provisions in the Senate's Tax Cut Extension Bill"
-draft = true
+draft = false
 tags = ["Tax"]
 +++
 

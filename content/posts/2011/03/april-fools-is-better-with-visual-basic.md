@@ -1,7 +1,7 @@
 +++
 date = "2011-03-31T19:49:08+00:00"
 title = "April Fools Is Better With Visual Basic"
-draft = true
+draft = false
 tags = ["Fun", "Tech", "VBA"]
 +++
 

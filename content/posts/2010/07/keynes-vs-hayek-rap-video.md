@@ -1,7 +1,7 @@
 +++
 date = "2010-07-10T12:28:21+00:00"
 title = "Keynes vs. Hayek Rap Video"
-draft = true
+draft = false
 tags = ["Fun"]
 +++
 
