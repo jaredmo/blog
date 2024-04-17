@@ -5,14 +5,22 @@ slug = "resume"
 
 Specialties
 -----------
-Preparation of financial statements and executive reporting packages • Leading and coaching high performing teams •
-Budgeting and forecasting • Business combination accounting • Healthcare accounting • Data analysis and report creation •
-Building predictive analytical models • Leveraging technological infrastructure to drive efficiencies and profitability
+- ERP system administration
+- Leading and coaching high performing teams
+- Purchase accounting and consolidation
+- Multi-currency reporting
+- Healthcare accounting
+- Sarbanes-Oxley
+- Preparation of financial statements and executive reporting packages
+- Budgeting and forecasting
+- Data analysis and analytics
+- Leveraging technological infrastructure to drive efficiencies and profitability
 
 Experience
 ----------
 **Lyra Health**  
 *Head of Financial Business Systems*, 5/21 - present
+- Lead the Financial Business Systems team. Lyra's users and operations span six continents. My role is to define systems strategy for the consolidated global enterprise.
 
 **AmSurg Corp**  
 *Senior Director of Financial Services*, 4/18 – 5/21
