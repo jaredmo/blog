@@ -7,7 +7,7 @@ I am a Certified Public Accountant and Financial Systems leader in Nashville's h
 
 I have deep experience with a variety of platforms and tools including the following.
 
-## Accounting:
+### Accounting
 - Avalara
 - Cognos
 - Coupa
@@ -17,7 +17,7 @@ I have deep experience with a variety of platforms and tools including the follo
 - ZoneCapture
 - Zuora
 
-## Data & Analytics
+### Data & Analytics
 - Business Objects
 - dbt Core
 - PostgreSQL
@@ -26,7 +26,7 @@ I have deep experience with a variety of platforms and tools including the follo
 - Microsoft SQL Server
 - Tableau
 
-## Healthcare
+### Healthcare
 - Advantx
 - Centricity
 - eClinicalWorks
