@@ -12,6 +12,7 @@ I have deep experience with a variety of platforms and tools including the follo
 - Cognos
 - Coupa
 - NetSuite
+- Salesforce
 - SmartStream
 - Symbeo
 - ZoneCapture
@@ -20,11 +21,19 @@ I have deep experience with a variety of platforms and tools including the follo
 ### Data & Analytics
 - Business Objects
 - dbt Core
+- Microsoft SQL Server
 - PostgreSQL
 - SAS
 - Snowflake
-- Microsoft SQL Server
 - Tableau
+- Workato
+
+### DevOps
+- Jira
+- Docker
+- GitHub / GitLab
+- GnuPG
+- SSH / SFTP
 
 ### Healthcare
 - Advantx
@@ -33,4 +42,11 @@ I have deep experience with a variety of platforms and tools including the follo
 - NextGen
 - SIS
 - Vision
+
+### Programming
+- Bash
+- Python
+- PowerShell
+- SAS
+- SQL
 
