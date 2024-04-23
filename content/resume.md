@@ -20,7 +20,9 @@ Experience
 ----------
 **Lyra Health**  
 *Head of Financial Business Systems*, 5/21 - present
-- I currently lead the Financial Business Systems team at Lyra Health. Users and operations span six continents. My role is to set systems strategy for the consolidated global enterprise.
+- I currently lead the Financial Business Systems team at Lyra Health. Lyra's users and operations span six continents. My role is to set systems strategy for the consolidated global enterprise.
+- During my time, Lyra has expanded from a US-only business to an international business with a worldwide network of subsidiaries. My team has implemented Coupa, Zuora, Avalara, and numerous NetSuite modules as the business has scaled. We support several layers of multicurrency consolidation in both GAAP and IFRS as well as global tax reporting.
+- We created a Snowflake data warehouse in collaboration with Lyra's data team. I [authored](https://github.com/fivetran/dbt_netsuite/pull/90) the NetSuite multibook and multicurrency dbt features, and the code was accepted into the vendor's open source repository.
 
 **AmSurg Corp**  
 *Senior Director of Financial Services, IT Specialist*, 4/18 – 5/21
