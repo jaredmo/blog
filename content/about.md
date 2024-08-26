@@ -12,6 +12,16 @@ My specialties include ERP administration, consolidation, systems integration, a
 - Cognos
 - Coupa
 - NetSuite
+    - Advanced Financials
+    - Advanced Revenue Management
+    - Automated Intercompany Management
+    - Dunning Letters
+    - Electronic Bank Payments
+    - Fixed Assets Management
+    - Multi-Book Accounting
+    - Multiple Currencies
+    - SuiteAnalytics Connect
+    - SuiteTax
 - Salesforce
 - SmartStream
 - Symbeo
