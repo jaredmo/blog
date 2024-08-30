@@ -1,7 +1,7 @@
 +++
 date = "2010-09-26T13:56:27+00:00"
 title = "NYT: What the Rich Don’t Need"
-draft = false
+draft = true
 tags = ["News", "Tax"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 date = "2010-10-16T01:11:26+00:00"
 title = "Benford's Law"
-draft = false
+draft = true
 tags = ["Fraud", "Fun"]
 +++
 

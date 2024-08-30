@@ -1,7 +1,7 @@
 +++
 date = "2010-10-24T19:13:54+00:00"
 title = "Taleb on Corporate Bankruptcy"
-draft = false
+draft = true
 tags = ["Quotes"]
 +++
 

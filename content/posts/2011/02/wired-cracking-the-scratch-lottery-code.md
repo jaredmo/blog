@@ -1,7 +1,7 @@
 +++
 date = "2011-02-07T14:30:43+00:00"
 title = "Wired: Cracking the Scratch Lottery Code"
-draft = false
+draft = true
 tags = ["Fun", "News"]
 +++
 

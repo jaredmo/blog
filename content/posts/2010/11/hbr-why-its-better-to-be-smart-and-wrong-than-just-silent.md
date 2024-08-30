@@ -1,7 +1,7 @@
 +++
 date = "2010-11-30T21:52:30+00:00"
 title = "HBR: Why It's Better to Be Smart and Wrong than Just Silent"
-draft = false
+draft = true
 tags = ["Profession"]
 +++
 

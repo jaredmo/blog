@@ -1,7 +1,7 @@
 +++
 date = "2010-11-01T14:29:11+00:00"
 title = "NYT: It’s Morning in India"
-draft = false
+draft = true
 tags = ["News"]
 +++
 

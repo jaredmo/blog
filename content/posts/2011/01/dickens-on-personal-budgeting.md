@@ -1,7 +1,7 @@
 +++
 date = "2011-01-17T14:43:15+00:00"
 title = "Dickens on Personal Budgeting"
-draft = false
+draft = true
 tags = ["Quotes"]
 +++
 

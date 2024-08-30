@@ -1,7 +1,7 @@
 +++
 date = "2011-05-16T17:41:51+00:00"
 title = "Bitcoin: A Money Launderer's Dream Come True"
-draft = false
+draft = true
 tags = ["Bitcoin", "News"]
 +++
 

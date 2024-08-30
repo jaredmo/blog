@@ -1,7 +1,7 @@
 +++
 date = "2010-10-12T12:15:22+00:00"
 title = "Stanford International Bank Fraud"
-draft = false
+draft = true
 tags = ["Fraud", "Featured"]
 +++
 

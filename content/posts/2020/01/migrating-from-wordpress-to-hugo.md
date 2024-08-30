@@ -1,7 +1,7 @@
 +++
 date = "2020-01-24T10:28:28-06:00"
 title = "Migrating from Wordpress to Hugo"
-draft = false 
+draft = true 
 tags = ["Tech"]
 +++
 

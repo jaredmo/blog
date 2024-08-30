@@ -1,7 +1,7 @@
 +++
 date = "2010-12-04T21:56:05+00:00"
 title = "GigaOM: Get Business Intelligence Ready for the Real-Time Web"
-draft = false
+draft = true
 tags = ["News", "Tech"]
 +++
 

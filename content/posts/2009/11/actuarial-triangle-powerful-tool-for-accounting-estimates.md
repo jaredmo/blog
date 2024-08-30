@@ -1,7 +1,7 @@
 +++
 date = "2009-11-28T19:13:22+00:00"
 title = "Actuarial Triangle: Powerful Tool for Accounting Estimates"
-draft = false
+draft = true
 tags = ["Financial Reporting", "SAS", "Tech", "Featured"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 date = "2010-10-11T15:11:58+00:00"
 title = "The Daily Dish: A Taxpayer Receipt"
-draft = false
+draft = true
 tags = ["Tax"]
 +++
 

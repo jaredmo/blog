@@ -1,7 +1,7 @@
 +++
 date = "2010-08-04T18:44:46+00:00"
 title = "Web Browsing via Linux: Prudent or Paranoid"
-draft = false
+draft = true
 tags = ["Tech"]
 +++
 

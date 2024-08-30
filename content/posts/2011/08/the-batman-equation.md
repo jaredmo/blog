@@ -1,7 +1,7 @@
 +++
 date = "2011-08-21T21:41:40+00:00"
 title = "The Batman Equation"
-draft = false
+draft = true
 tags = ["Fun"]
 +++
 

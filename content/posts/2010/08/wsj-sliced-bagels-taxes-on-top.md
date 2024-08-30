@@ -1,7 +1,7 @@
 +++
 date = "2010-08-24T18:27:21+00:00"
 title = "WSJ: Sliced Bagels, Taxes on Top"
-draft = false
+draft = true
 tags = ["News", "Tax"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 date = "2011-06-07T18:42:31+00:00"
 title = "Sino-Forest, Short Sellers Allege Ponzi Scheme"
-draft = false
+draft = true
 tags = ["Accounting", "Fraud", "News"]
 +++
 

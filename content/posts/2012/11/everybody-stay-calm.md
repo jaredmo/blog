@@ -1,7 +1,7 @@
 +++
 date = "2012-11-04T14:21:10+00:00"
 title = "Everybody Stay Calm"
-draft = false
+draft = true
 tags = ["Profession"]
 +++
 

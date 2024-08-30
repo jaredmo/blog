@@ -1,7 +1,7 @@
 +++
 date = "2011-02-27T21:39:24+00:00"
 title = "Compound Interest: A Lesson From My Dad"
-draft = false
+draft = true
 tags = ["Fun"]
 +++
 

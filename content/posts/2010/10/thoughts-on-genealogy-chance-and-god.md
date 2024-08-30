@@ -1,7 +1,7 @@
 +++
 date = "2010-10-25T22:00:26+00:00"
 title = "Thoughts on Genealogy, Chance, and God"
-draft = false
+draft = true
 tags = ["Fun"]
 +++
 
