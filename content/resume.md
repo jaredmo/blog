@@ -18,13 +18,16 @@ Specialties
 
 Experience
 ----------
-**Lyra Health**  
+[**Lyra Health**](https://www.lyrahealth.com)  
 *Head of Financial Business Systems*, 5/21 - present
-- I currently lead the Financial Business Systems team at Lyra Health. Lyra's users and operations span six continents. My role is to set systems strategy for the consolidated global enterprise.
-- During my time, Lyra has expanded from a US-only business to an international business with a worldwide network of subsidiaries. My team has implemented Coupa, Zuora, Avalara, and numerous NetSuite modules as the business has scaled. We support several layers of multicurrency consolidation in both GAAP and IFRS as well as global tax reporting.
-- We created a Snowflake data warehouse in collaboration with Lyra's data team. I [authored](https://github.com/fivetran/dbt_netsuite/pull/90) the NetSuite multibook and multicurrency dbt features, and the code was accepted into the vendor's open source repository.
+- Lead the Financial Business Systems team and set systems strategy for the global enterprise.
+- Implemented Coupa, Zuora, Avalara, Ramp, and NetSuite modules to support growth. Modules include Fixed Assets, Dunning, Advanced Revenue Management, Advanced Financials, and SuiteTax.
+- Consolidated global acquisitions onto existing NetSuite environment. Regions include AMER, EMEA, & APAC. Localized NetSuite to comply with e-invoicing and tax requirements.
+- Designed custom patient accounting system built on Salesforce.
+- Automated end user provisioning with Okta and Workato.
+- Created a Snowflake data warehouse with Fivetran and dbt. [Authored](https://github.com/fivetran/dbt_netsuite/pull/90) NetSuite multi-book and multi-currency dbt features.
 
-**AmSurg Corp**  
+[**AmSurg Corp**](https://www.amsurg.com)  
 *Senior Director of Financial Services, IT Specialist*, 4/18 – 5/21
 - Project lead for revenue cycle data warehouse. Provided a single source of truth for billing, accounting, and operations to access common metrics.
 - Integrated first multi-location ophthalmology practice acquisition. Created the budgets, chart of accounts, and reporting.
