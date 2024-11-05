@@ -25,7 +25,7 @@ Experience
 - Consolidated global acquisitions onto existing NetSuite environment. Regions include AMER, EMEA, & APAC. Localized NetSuite to comply with e-invoicing and tax requirements.
 - Designed custom patient accounting system built on Salesforce.
 - Automated end user provisioning with Okta and Workato.
-- Created a Snowflake data warehouse with Fivetran and dbt. [Authored](https://github.com/fivetran/dbt_netsuite/pull/90) NetSuite multi-book and multi-currency dbt features.
+- Created a Snowflake data warehouse with Fivetran and dbt. [Authored](https://github.com/fivetran/dbt_netsuite/pull/90) NetSuite multi-book and multi-currency dbt features which were accepted into upstream codebase.
 
 [**AmSurg Corp**](https://www.amsurg.com)  
 *Senior Director of Financial Services, IT Specialist*, 4/18 – 5/21
