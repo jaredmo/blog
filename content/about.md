@@ -34,6 +34,7 @@ My specialties include ERP administration, consolidation, systems integration, a
 ### Data & Analytics
 - Business Objects
 - dbt Core
+- Fivetran
 - Microsoft SQL Server
 - PostgreSQL
 - SAS
