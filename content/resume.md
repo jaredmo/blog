@@ -3,8 +3,7 @@ title = "Resume"
 slug = "resume"
 +++
 
-Specialties
------------
+## Specialties
 - ERP system administration
 - Leading and coaching high performing teams
 - Purchase accounting and consolidation
@@ -16,9 +15,8 @@ Specialties
 - Data engineering and analytics
 - Leveraging technological infrastructure to drive efficiencies and profitability
 
-Experience
-----------
-[**Lyra Health**](https://www.lyrahealth.com)  
+## Experience
+#### [Lyra Health](https://www.lyrahealth.com)
 *Head of Financial Business Systems*, 5/21 - present
 - Lead the Financial Business Systems team and set systems strategy for the global enterprise.
 - Implemented Coupa, Zuora, Avalara, Ramp, and NetSuite modules to support growth. Modules include Fixed Assets, Dunning, Advanced Revenue Management, Advanced Financials, and SuiteTax.
@@ -27,8 +25,8 @@ Experience
 - Automated end user provisioning with Okta and Workato.
 - Created a Snowflake data warehouse with Fivetran and dbt. [Authored](https://github.com/fivetran/dbt_netsuite/pull/90) NetSuite multi-book and multi-currency dbt features which were accepted into Fivetran's codebase.
 
-[**AmSurg Corp**](https://www.amsurg.com)  
-*Senior Director of Financial Services, IT Specialist*, 4/18 – 5/21
+#### [AmSurg Corp](https://www.amsurg.com)
+*Senior Director of Financial Services (Finance Transformation)*, 4/18 – 5/21
 - Project lead for revenue cycle data warehouse. Provided a single source of truth for billing, accounting, and operations to access common metrics.
 - Integrated first multi-location ophthalmology practice acquisition. Created the budgets, chart of accounts, and reporting.
 - Authored web application components that automated recording of $1 billion in annual revenue.
@@ -36,7 +34,7 @@ Experience
 - Created reporting for annual budget process of 300+ surgery centers.
 - Coached staff, seniors, and managers on monthly variance analysis and reporting skills.
 
-*Director of Financial Services, IT Specialist*, 7/16 – 4/18
+*Director of Financial Services (Finance Transformation)*, 7/16 – 4/18
 - Accounted for surgery center acquisitions including opening balance sheet, budget, and systems integration.
 - Reviewed surgery center income statements monthly and provided feedback to staff.
 - Assisted with monthly consolidation of 300+ entities with variable ownership.
@@ -54,7 +52,7 @@ Experience
 - Replaced paper-based processes with digital workflows. Saved 1M+ sheets of paper annually.
 - Created dashboards and reports for department leadership.
 
-**LifeWay Christian Resources**  
+#### LifeWay Christian Resources
 *Financial Analyst*, 1/09 - 6/11
 - Data analysis, budgeting, forecasting, and reporting for LifeWay’s Church Resources Division. 
 - Developed annual operating, working capital, and fixed asset budgets for three departments.
@@ -66,7 +64,7 @@ Experience
 - Annually trained and managed 20+ temp financial personnel across the United States. 
 - Performed due diligence on acquisition that increased a department’s revenue by 30%.
 
-**Deloitte & Touche LLP**  
+#### Deloitte & Touche LLP
 *Senior Consultant, Data Quality & Integrity*, 9/06 - 10/08
 - Provided audit and consulting services to healthcare, automotive, and financial services clients.
 - Used computer-assisted audit tools and techniques to identify transactions with high audit risk.
@@ -78,39 +76,33 @@ Experience
 - Chosen as a member of the first Nissan North America audit engagement team upon their move to Tennessee. 
 - Led new hire training on Audit Command Language ("ACL").
 
-Additional Experience
----------------------
-**Belmont University**  
+## Additional Experience
+#### Belmont University
 *Adjunct Professor of Accounting, College of Business Administration*, 8/09 - 12/09
 - Taught Accounting Principles II to 30 students at night during the fall 2009 semester. 
 - Created presentations, tests, assignments, and games to facilitate classroom learning.
 
-Education
----------
-**Belmont University - Jack C. Massey Graduate School of Business**  
+## Education
+#### Belmont University - Jack C. Massey Graduate School of Business
 *Master of Accountancy*, 2005 - 2006  
 - GPA: 4.0 Full scholarship through graduate assistantship. Member of Beta Gamma Sigma, Beta Alpha Psi.
 
-**Belmont University**  
+#### Belmont University
 *Bachelor of Business Administration*, 2000 - 2004  
 - GPA: 3.9 Four year academic scholarship recipient. Member of Beta Gamma Sigma, Alpha Chi.
 
-Honors
-------
+## Honors
 - Federation of Schools of Accountancy 2006 Student Achievement Award
 
-Associations
-------------
+## Associations
 - American Institute of Certified Public Accountants
 - Tennessee Society of Certified Public Accountants
 
-Certifications
---------------
+## Certifications
 - *[Certified Public Accountant](http://verify.tn.gov)*, Tennessee State Board of Accountancy (License: 20199)
 - *[SAS Certified Base Programmer for SAS 9](https://www.youracclaim.com/badges/47f05ac8-2804-46b0-b52b-30309d42fb80/)*, SAS Institute Inc.
 
-Courses
--------
+## Courses
 - *Health Information Technology (HIT) Accelerator*, Belmont University / TN HIMMS
 - *[Data Science Orientation](https://courses.edx.org/certificates/c88a20c618f7453abf1af5eaec05f036)*, edX
 - *[Querying with Transact-SQL](https://courses.edx.org/certificates/5999c8176df24914bc015eb35a0fee7a)*, edX
