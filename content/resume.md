@@ -53,7 +53,7 @@ slug = "resume"
 - Created dashboards and reports for department leadership.
 
 #### LifeWay Christian Resources
-*Financial Analyst*, 1/09 - 6/11
+*Financial Analyst (FP&A)*, 1/09 - 6/11
 - Data analysis, budgeting, forecasting, and reporting for LifeWay’s Church Resources Division. 
 - Developed annual operating, working capital, and fixed asset budgets for three departments.
 - Performed quarterly projections of revenues and expenses. 
