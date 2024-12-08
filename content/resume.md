@@ -43,7 +43,7 @@ slug = "resume"
 - Coordinated development, testing, and deployment of finance web applications.
 - Created documentation and materials for cross functional finance projects.
 
-*Manager of Financial Services II*, 6/11 - 7/16
+*Manager of Financial Services II (GL Accounting)*, 6/11 - 7/16
 - Supervised team of staff accountants, senior accountants, and accounts payable personnel.
 - Managed operating/capital budgets and monthly accounting processes for 30+ surgery centers.
 - Assisted physician partners and operations colleagues with financial issues and questions.
