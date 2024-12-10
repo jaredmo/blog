@@ -91,6 +91,10 @@ slug = "resume"
 *Bachelor of Business Administration*, 2000 - 2004  
 - GPA: 3.9 Four year academic scholarship recipient. Member of Beta Gamma Sigma, Alpha Chi.
 
+## Volunteering
+#### Belmont University
+*Business Systems & Analytics Advisory Board*, 03/24 - present
+
 ## Honors
 - Federation of Schools of Accountancy 2006 Student Achievement Award
 
