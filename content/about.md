@@ -40,7 +40,6 @@ My specialties include ERP administration, consolidation, systems integration, a
 - SAS
 - Snowflake
 - Tableau
-- Workato
 
 ### Infrastructure & DevOps
 - Docker
